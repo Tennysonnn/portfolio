@@ -140,7 +140,7 @@ const defaultResults: SearchResult[] = [
   },
   {
     title: "About this search experience",
-    source: "Hakhong's Portfolio",
+    source: "Long LyHakhong's Portfolio",
     description:
       "This box is designed to later connect to a real web-search API and an LLM. For now, every answer is a fixed, hand-written placeholder.",
     url: "#about",
