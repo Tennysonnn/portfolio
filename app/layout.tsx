@@ -27,9 +27,9 @@ const plexMono = IBM_Plex_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Hakhong — Digital Business Graduate",
+  title: "Long LyHakhong — Digital Business Graduate",
   description:
-    "Portfolio of Hakhong, a Digital Business graduate working at the intersection of business, technology, and product.",
+    "Portfolio of LyHakhong, a Digital Business graduate working at the intersection of business, technology, and product.",
 };
 
 export default function RootLayout({
