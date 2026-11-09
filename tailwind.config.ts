@@ -21,8 +21,8 @@ const config: Config = {
         "line-dark": "#2A2E3F",
       },
       fontFamily: {
-        display: ["var(--font-fraunces)", "Georgia", "serif"],
-        sans: ["var(--font-plex-sans)", "system-ui", "sans-serif"],
+        display: ["var(--font-montserrat)", "system-ui", "sans-serif"],
+        sans: ["var(--font-montserrat)", "system-ui", "sans-serif"],
         mono: ["var(--font-plex-mono)", "monospace"],
       },
       maxWidth: {
