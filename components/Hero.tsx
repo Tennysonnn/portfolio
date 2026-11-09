@@ -10,7 +10,7 @@ export default function Hero() {
           </h1>
 
           <p className="mt-4 font-display text-xl italic text-ink-soft sm:text-2xl">
-            Eatly Cateer - Vibe Coding Rookie
+            Early Career - Vibe Coding Rookie
           </p>
 
           <p className="mt-6 max-w-prose text-base leading-relaxed text-ink-soft sm:text-lg">
