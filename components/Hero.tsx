@@ -6,11 +6,11 @@ export default function Hero() {
           <p className="mb-5 text-sm text-ink-soft">Business × Technology × Product</p>
 
           <h1 className="font-display text-5xl leading-[1.05] text-ink sm:text-6xl md:text-7xl">
-            Hakhong
+            Long Lyhakhong (Tennyson)
           </h1>
 
           <p className="mt-4 font-display text-xl italic text-ink-soft sm:text-2xl">
-            Digital Business Graduate
+            Eatly Cateer - Vibe Coding Rookie
           </p>
 
           <p className="mt-6 max-w-prose text-base leading-relaxed text-ink-soft sm:text-lg">
