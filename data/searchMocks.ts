@@ -4,7 +4,7 @@ export const examplePrompts: string[] = [
   "AI trends in digital business",
   "Product management resources",
   "Digital business opportunities",
-  "Tell me about Hakhong's projects",
+  "Tell me about Lyhakhong's projects",
 ];
 
 // Builds a real, working link for a mock result instead of a dead
