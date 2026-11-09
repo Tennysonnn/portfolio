@@ -17,7 +17,7 @@ export default function ContactCTA() {
           <dl className="mt-8 space-y-4 border-t border-line pt-6 text-sm">
             <div>
               <dt className="text-ink-faint">Email</dt>
-              <dd className="mt-1 text-ink">[add-your-email@example.com]</dd>
+              <dd className="mt-1 text-ink">[lyhakhong.long25@gmail.com]</dd>
             </div>
             <div>
               <dt className="text-ink-faint">LinkedIn</dt>

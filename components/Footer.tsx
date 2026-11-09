@@ -18,7 +18,7 @@ export default function Footer() {
           <a href="#contact" className="hover:text-ink">Contact</a>
         </div>
 
-        <p className="text-sm text-ink-faint">&copy; {year} Hakhong. Built with Next.js.</p>
+        <p className="text-sm text-ink-faint">&copy; {year} LONG Lyhakhong. Built with Next.js.</p>
       </div>
     </footer>
   );

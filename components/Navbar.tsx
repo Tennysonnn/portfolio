@@ -21,7 +21,7 @@ export default function Navbar() {
           className="font-display text-lg tracking-tight text-ink"
           onClick={() => setOpen(false)}
         >
-          Hakhong
+         LONG Lyhakhong
         </a>
 
         <nav className="hidden items-center gap-8 md:flex">
